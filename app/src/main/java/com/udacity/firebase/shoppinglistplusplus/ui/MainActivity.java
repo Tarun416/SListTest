@@ -192,7 +192,6 @@ public class MainActivity extends BaseActivity {
             return fragment;
         }
 
-
         @Override
         public int getCount() {
             return 2;
